@@ -93,3 +93,8 @@ This project demonstrates how to build, train, and evaluate **Linear Regression*
 - Dataset: [Boston Housing Dataset (UCI Machine Learning Repository)](https://archive.ics.uci.edu/ml/machine-learning-databases/housing/)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
 
+Colab Link: https://colab.research.google.com/drive/1pBToZTEHuzaVfy_By20eDc6jvS8LSuwW?usp=sharing 
+
+
+
+Github Link: https://github.com/ToukirAhamedPigeon/housing_price_project
